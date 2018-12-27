@@ -1,0 +1,17 @@
+{
+  "name": "feh-gamepedia-scrape",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:caguiclajmg/feh-gamepedia-scrape.git",
+  "author": "John Mark Gabriel Caguicla <jmg@caguicla.me>",
+  "license": "GPL-3.0-only",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "jsonframe-cheerio": "^3.0.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
